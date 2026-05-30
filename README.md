@@ -1,7 +1,7 @@
 ---
 title: "Impact of Social Media Usage on Academic Performance of College Students"
 output:
-  word_document: default
+  
   pdf_document: default
 date: "2026-05-30"
 ---
